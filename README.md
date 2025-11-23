@@ -38,7 +38,7 @@ I update this table daily as I complete each topic.
 | 2 | Two Pointers – Questions |[Link](https://youtu.be/Yi90cuHYyWQ?si=BK3RJK2C4gYBk9BG)| ✅ |
 | 3 | Two Pointers – Questions |[Link](https://youtu.be/SP065oLnxGA?si=3rQcrVhkDQQn2nqZ)| ✅ |
 | 4 | Two Pointers – Questions |[Link](https://youtu.be/pcj6S1KLxWc?si=lpDF9O_Yw8Bv1HI5)| ✅ |
-
+|  | Two Pointers – Questions |[Link](https://youtu.be/jA74srakqvI?si=ecv4UgGYbSyz7Tml)| ✅ |
 (Will be updated daily as the series progresses.)
 
 ---
