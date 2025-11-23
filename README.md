@@ -39,6 +39,7 @@ I update this table daily as I complete each topic.
 | 3 | Two Pointers – Questions |[Link](https://youtu.be/SP065oLnxGA?si=3rQcrVhkDQQn2nqZ)| ✅ |
 | 4 | Two Pointers – Questions |[Link](https://youtu.be/pcj6S1KLxWc?si=lpDF9O_Yw8Bv1HI5)| ✅ |
 | 5 | Two Pointers – Questions |[Link](https://youtu.be/jA74srakqvI?si=ecv4UgGYbSyz7Tml)| ✅ |
+| 6 | Two Pointers – Questions |[Link](https://youtu.be/IW8gQ2u2O_I?si=CEOpWgrmnhlVKU1l)| ✅ |
 
 (Will be updated daily as the series progresses.)
 
