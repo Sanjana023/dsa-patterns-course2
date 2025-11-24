@@ -30,8 +30,6 @@ Each day includes:
 
 ## 📅 90-Day Progress Tracker
 
-I update this table daily as I complete each topic.
-
 | Day | Topic / Pattern | Video | Status |
 |-----|------------------|--------|--------|
 | 1 | Two Pointers – Theory | [Link](https://youtu.be/Elnhh8cC2vM?si=OVrgsym_qKhpVgj4)| ✅ |
