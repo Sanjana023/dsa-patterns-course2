@@ -38,6 +38,7 @@ Each day includes:
 | 4 | Two Pointers – Questions |[Link](https://youtu.be/pcj6S1KLxWc?si=lpDF9O_Yw8Bv1HI5)| ✅ |
 | 5 | Two Pointers – Questions |[Link](https://youtu.be/jA74srakqvI?si=ecv4UgGYbSyz7Tml)| ✅ |
 | 6 | Two Pointers – Questions |[Link](https://youtu.be/IW8gQ2u2O_I?si=CEOpWgrmnhlVKU1l)| ✅ |
+| 7 |  Fast & Slow Pointers – Theory |[Link](https://youtu.be/FguUjuCzhj0?si=WF-FZUP6NwullPjW)| ✅ |
 
 (Will be updated daily as the series progresses.)
 
