@@ -31,17 +31,16 @@ Each day includes:
 ## 📅 90-Day Progress Tracker
 
 | Day | Topic / Pattern | Video | Status |
-|-----|------------------|--------|--------|
-| 1 | Two Pointers – Theory | [Link](https://youtu.be/Elnhh8cC2vM?si=OVrgsym_qKhpVgj4)| ✅ |
-| 2 | Two Pointers – Questions |[Link](https://youtu.be/Yi90cuHYyWQ?si=BK3RJK2C4gYBk9BG)| ✅ |
-| 3 | Two Pointers – Questions |[Link](https://youtu.be/SP065oLnxGA?si=3rQcrVhkDQQn2nqZ)| ✅ |
-| 4 | Two Pointers – Questions |[Link](https://youtu.be/pcj6S1KLxWc?si=lpDF9O_Yw8Bv1HI5)| ✅ |
-| 5 | Two Pointers – Questions |[Link](https://youtu.be/jA74srakqvI?si=ecv4UgGYbSyz7Tml)| ✅ |
-| 6 | Two Pointers – Questions |[Link](https://youtu.be/IW8gQ2u2O_I?si=CEOpWgrmnhlVKU1l)| ✅ |
-| 7 |  Fast & Slow Pointers – Theory |[Link](https://youtu.be/FguUjuCzhj0?si=WF-FZUP6NwullPjW)| ✅ |
-| 8 |  Fast & Slow Pointers – Questions |[Link](https://youtu.be/eIItwq8UTmU?si=l-owDQYThTpMbeCC)| ✅ |
-| 9 |  Fast & Slow Pointers – Questions |[Link](https://youtu.be/E85jp_rHivc?si=ZPjAqpnRoUflGtfo)| ✅ |
-(Will be updated daily as the series progresses.)
+|:---:|------------------|--------|--------|
+| 1 | Two Pointers – Theory | [Link](https://youtu.be/Elnhh8cC2vM?si=OVrgsym_qKhpVgj4) | ✅ |
+| 2 | Two Pointers – Questions | [Link](https://youtu.be/Yi90cuHYyWQ?si=BK3RJK2C4gYBk9BG) | ✅ |
+| 3 | Two Pointers – Questions | [Link](https://youtu.be/SP065oLnxGA?si=3rQcrVhkDQQn2nqZ) | ✅ |
+| 4 | Two Pointers – Questions | [Link](https://youtu.be/pcj6S1KLxWc?si=lpDF9O_Yw8Bv1HI5) | ✅ |
+| 5 | Two Pointers – Questions | [Link](https://youtu.be/jA74srakqvI?si=ecv4UgGYbSyz7Tml) | ✅ |
+| 6 | Two Pointers – Questions | [Link](https://youtu.be/IW8gQ2u2O_I?si=CEOpWgrmnhlVKU1l) | ✅ |
+| 7 | Fast & Slow Pointers – Theory | [Link](https://youtu.be/FguUjuCzhj0?si=WF-FZUP6NwullPjW) | ✅ |
+| 8 | Fast & Slow Pointers – Questions | [Link](https://youtu.be/eIItwq8UTmU?si=l-owDQYThTpMbeCC) | ✅ |
+| 9 | Fast & Slow Pointers – Questions | [Link](https://youtu.be/E85jp_rHivc?si=ZPjAqpnRoUflGtfo) | ✅ |
 
 ---
 
