@@ -41,7 +41,8 @@ Each day includes:
 | 7 | Fast & Slow Pointers – Theory | [Link](https://youtu.be/FguUjuCzhj0?si=WF-FZUP6NwullPjW) | ✅ |
 | 8 | Fast & Slow Pointers – Questions | [Link](https://youtu.be/eIItwq8UTmU?si=l-owDQYThTpMbeCC) | ✅ |
 | 9 | Fast & Slow Pointers – Questions | [Link](https://youtu.be/E85jp_rHivc?si=ZPjAqpnRoUflGtfo) | ✅ |
-
+| 10 | Fast & Slow Pointers – Questions | [Link](https://youtu.be/t40HN4Rla30?si=FtncjOsYniEbYk9L) | ✅ |
+| 11 | Fast & Slow Pointers – Questions | [Link](https://youtu.be/nFZ1mysCZc0?si=orEJbkm8q9NEOdQb) | 🔲 |
 ---
 
 ## 🔗 Resources
